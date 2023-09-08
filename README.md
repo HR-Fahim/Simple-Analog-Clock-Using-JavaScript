@@ -1,4 +1,4 @@
-# Simple Analog Clock
+# Simple Live Analog Clock
 
 This is a basic analog clock created using JavaScript, HTML, and CSS. It provides a simple and visually appealing way to display the current time in an analog format.
 
