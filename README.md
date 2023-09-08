@@ -2,6 +2,8 @@
 
 This is a basic analog clock created using JavaScript, HTML, and CSS. It provides a simple and visually appealing way to display the current time in an analog format.
 
+You can preview the analog clock by clicking [here](https://hr-fahim.github.io/Simple-Live-Analog-Clock-Using-JavaScript/).
+
 ## Introduction
 
 Analog clocks have been a classic way to represent time for centuries, and this project brings that timeless design to the digital world. It serves as a fun and educational exercise to understand the fundamental concepts of web development, including:

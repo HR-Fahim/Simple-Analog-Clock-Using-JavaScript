@@ -4,6 +4,10 @@ const SECONDHAND = document.querySelector("#second");
 
 var date = new Date();
 console.log(date);
+
+const title = document.querySelector("h1");
+title.innerHTML = "A Digital Analog Clock<br>" + date.toLocaleTimeString();
+
 let hr = date.getHours();
 let min = date.getMinutes();
 let sec = date.getSeconds();
